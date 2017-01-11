@@ -1,0 +1,21 @@
+C:\Users\ad\AppData\Local\Temporary Projects\FissicGym\bin\Debug\FissicGym.exe.config
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\bin\Debug\FissicGym.exe.config
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\bin\Debug\FissicGym.exe
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\bin\Debug\FissicGym.pdb
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\bin\Debug\FissicGym.xml
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.vbprojResolveAssemblyReference.cache
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Form1.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Resources.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Socios.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.vbproj.GenerateResource.Cache
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.exe
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.xml
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.pdb
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\bin\Debug\MySql.Data.dll
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.nuevaCuota.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Pago.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.versocio.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Vencidos.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Dar_de_baja.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Modificar_cuota.resources
+C:\Users\ad\documents\visual studio 2015\Projects\FissicGym\FissicGym\obj\Debug\FissicGym.Ingreso.resources

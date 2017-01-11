@@ -1,0 +1,76 @@
+#cssmenu {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+#cssmenu{
+	width: 193px;
+}
+#cssmenu ul{
+	list-style: none;
+	text-indent: 0px;
+}
+#cssmenu li{
+	margin-top: 3px;
+}
+#cssmenu a{
+	font: 12px Verdana;
+	padding: 4px;
+	color: #646464;
+	display:block;
+	padding: 6px 30px;
+	height: 20px;
+	text-decoration: none;
+	background: url('images/background.gif');
+}
+#cssmenu a:hover{
+	background: url('images/highlight.gif') no-repeat right;
+	padding: 6px 40px;
+}:148px;background:url(images/nav_active.jpg) no-repeat;color:#b18211;}
+
+	body {
+		font-family: Helvetica;
+		font-size: 11px;
+		color: #000;
+	}
+	
+	h3 {
+		margin: 0px;
+		padding: 0px;	
+	}
+
+	.suggestionsBox {
+		position: relative;
+		left: 30px;
+		margin: 10px 0px 0px 0px;
+		width: 200px;
+		background-color:#00F;
+		-moz-border-radius: 7px;
+		-webkit-border-radius: 7px;
+		border: 2px solid #000;	
+		color: #fff;
+	}
+	
+	.suggestionList {
+		margin: 0px;
+		padding: 0px;
+	}
+	
+	.suggestionList li {
+		
+		margin: 0px 0px 3px 0px;
+		padding: 3px;
+		cursor: pointer;
+	}
+	
+	.suggestionList li:hover {
+		background-color: #659CD8;
+	}
+#apDiv1 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 1;
+	left: 419px;
+	top: 222px;
+}
